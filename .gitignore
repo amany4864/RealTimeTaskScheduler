@@ -1,0 +1,21 @@
+# Build files
+*.o
+*.out
+*.exe
+*.log
+
+# Executables
+scheduler
+mysh
+*.bin
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE folders
+.vscode/
+*.swp
+
+# Make artifacts
+build/
